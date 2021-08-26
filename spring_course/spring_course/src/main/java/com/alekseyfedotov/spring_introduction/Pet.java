@@ -1,0 +1,5 @@
+package com.alekseyfedotov.spring_introduction;
+
+public interface Pet {
+    void say();
+}

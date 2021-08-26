@@ -1,4 +1,4 @@
-package com.alekseyfedotov.spring;
+package com.alekseyfedotov.spring_introduction;
 
 import static org.junit.Assert.assertTrue;
 
