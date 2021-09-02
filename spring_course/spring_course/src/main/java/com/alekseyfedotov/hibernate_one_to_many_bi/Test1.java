@@ -1,7 +1,7 @@
-package com.alekseyfedotov.hibernate_test_2;
+package com.alekseyfedotov.hibernate_one_to_many_bi;
 
-import com.alekseyfedotov.hibernate_test_2.entity.Detail;
-import com.alekseyfedotov.hibernate_test_2.entity.Employee;
+import com.alekseyfedotov.hibernate_one_to_many_bi.entity.Department;
+import com.alekseyfedotov.hibernate_one_to_many_bi.entity.Employee;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
@@ -12,28 +12,35 @@ public class Test1 {
         SessionFactory factory = new Configuration()
                 .configure("hibernate.cfg.xml")
                 .addAnnotatedClass(Employee.class)
-                .addAnnotatedClass(Detail.class)
+                .addAnnotatedClass(Department.class)
                 .buildSessionFactory();
         Session session = null;
         try {
-//            Session session = factory.getCurrentSession();
-//            Employee emp = new Employee("Mikhail", "Ivanov"
-//                    , "HR", 750);
-//            Detail detail = new Detail("Moscow", "123456", "abcd@bcda.ru");
-//            emp.setEmpDetail(detail);
+//            session = factory.getCurrentSession();
+//            Department dep = new Department("IT", 300, 1200);
+//            Employee emp1 = new Employee("Aleksey", "Fefotov", 800);
+//            Employee emp2 = new Employee("Viacheslav", "Shutov", 800);
+//            dep.addEmployeeToDepartment(emp1);
+//            dep.addEmployeeToDepartment(emp2);
 //
 //            session.beginTransaction();
-//            session.save(emp);
+//
+//            session.save(dep);
+//
 //            session.getTransaction().commit();
+//            System.out.println("Done!");
 
 
             session = factory.getCurrentSession();
             session.beginTransaction();
 
             Employee employee = session.get(Employee.class, 1);
+            session.delete(employee);
 
             session.getTransaction().commit();
-            System.out.println(employee);
+            System.out.println("Done!");
+
+
         }finally {
             session.close();
             factory.close();
