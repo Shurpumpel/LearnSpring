@@ -10,7 +10,7 @@
 
 <form:form action="showDetails" modelAttribute="employee">
     Name: <form:input path="name"/>
-    <form:errors path="name"/>
+    <form:errors path="name" color="red"/>
     <br><br>
     Surname: <form:input path="surname"/>
     <form:errors path="surname"/>
