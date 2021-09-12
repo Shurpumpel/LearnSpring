@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="spring_course_mvc_rest:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="413d1609-20e4-44fe-8329-c863efefac91" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alekseyfedotov/spring/rest/configuration/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alekseyfedotov/spring/rest/configuration/MyWebInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alekseyfedotov/spring/rest/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alekseyfedotov/spring/rest/dao/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alekseyfedotov/spring/rest/dao/EmployeeDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alekseyfedotov/spring/rest/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alekseyfedotov/spring/rest/exception_handling/EmployeeGlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alekseyfedotov/spring/rest/exception_handling/EmployeeIncorrectData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alekseyfedotov/spring/rest/exception_handling/NoSuchEmployeeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alekseyfedotov/spring/rest/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alekseyfedotov/spring/rest/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/src/main/java/com/alekseyfedotov/spring/rest/Communication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/src/main/java/com/alekseyfedotov/spring/rest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/src/main/java/com/alekseyfedotov/spring/rest/configuration/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/src/main/java/com/alekseyfedotov/spring/rest/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/src/test/java/com/alekseyfedotov/spring/rest/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/target/classes/com/alekseyfedotov/spring/rest/Communication$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/target/classes/com/alekseyfedotov/spring/rest/Communication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/target/classes/com/alekseyfedotov/spring/rest/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/target/classes/com/alekseyfedotov/spring/rest/configuration/MyConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/target/classes/com/alekseyfedotov/spring/rest/entity/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_rest_client/target/test-classes/com/alekseyfedotov/spring/rest/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_security/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_security/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_security/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_security/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_security/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_security/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_security/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_security/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_security/src/main/java/com/alekseyfedotov/spring/security/configuration/MeSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_security/src/main/java/com/alekseyfedotov/spring/security/configuration/MeSecurityInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_security/src/main/java/com/alekseyfedotov/spring/security/configuration/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_security/src/main/java/com/alekseyfedotov/spring/security/configuration/MyWebInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_security/src/main/java/com/alekseyfedotov/spring/security/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_security/src/main/webapp/WEB-INF/view/view-for-all-employees.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_security/src/main/webapp/WEB-INF/view/view_for_hr.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_security/src/main/webapp/WEB-INF/view/view_for_managers.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/src/main/java/com/alekseyfedotov/spring/springboot/spring_course_springboot/SpringCourseSpringbootApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/src/main/java/com/alekseyfedotov/spring/springboot/spring_course_springboot/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/src/main/java/com/alekseyfedotov/spring/springboot/spring_course_springboot/dao/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/src/main/java/com/alekseyfedotov/spring/springboot/spring_course_springboot/dao/EmployeeDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/src/main/java/com/alekseyfedotov/spring/springboot/spring_course_springboot/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/src/main/java/com/alekseyfedotov/spring/springboot/spring_course_springboot/exception_handling/EmployeeGlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/src/main/java/com/alekseyfedotov/spring/springboot/spring_course_springboot/exception_handling/EmployeeIncorrectData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/src/main/java/com/alekseyfedotov/spring/springboot/spring_course_springboot/exception_handling/NoSuchEmployeeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/src/main/java/com/alekseyfedotov/spring/springboot/spring_course_springboot/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/src/main/java/com/alekseyfedotov/spring/springboot/spring_course_springboot/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_course_springboot/src/test/java/com/alekseyfedotov/spring/springboot/spring_course_springboot/SpringCourseSpringbootApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring_course_rest/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring_course_rest/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring_course_rest/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring_course_rest/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring_course_rest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring_course_rest/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring_course_rest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring_course_rest/src/main/java/com/alekseyfedotov/spring/rest/configuration/MyConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring_course_rest/src/main/java/com/alekseyfedotov/spring/rest/configuration/MyWebInitializer.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="true" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1xx963KJ1l5eguoZsLvTCushVtx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/alekseyfedotov/spring/rest" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shurpumpel\Desktop\LearnSpring\spring_course_mvc_rest\src\main\java\com\alekseyfedotov\spring\rest" />
+      <recent name="C:\Users\Shurpumpel\Desktop\LearnSpring\spring_course_mvc_rest\src\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.52" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.52" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="spring_course_mvc_rest:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/spring_course_mvc_rest" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="f65e7ca3-047a-4d28-ad67-7568570ff258" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58485" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="spring_course_mvc_rest:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="413d1609-20e4-44fe-8329-c863efefac91" name="Changes" comment="" />
+      <created>1631285696817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631285696817</updated>
+      <workItem from="1631285699546" duration="1926000" />
+      <workItem from="1631447202371" duration="5916000" />
+      <workItem from="1631456220783" duration="85000" />
+      <workItem from="1631457536874" duration="118000" />
+      <workItem from="1631460326711" duration="295000" />
+      <workItem from="1631460824772" duration="158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
